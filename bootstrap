@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-comtible" content="IE=edge">
+  <meta name="viewport" content="width=device, initila-scale=1.0">
+  <title>KARINY TECNOLOGIA</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type='text/css' href="cssii.css">
+
+</head>
+
+<body style="background-color:#ffb1c7">
+  <nav class="navbar navbar-expand-lg navbar-light margin">
+    <a class="navbar-brand" href="#">
+      <img src="bb111.webp" width="120" height="80" alt="bob" style="border-radius: 30px;">
+    </a>
+    <div class="collapse navbar-collapse">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link active" href="queremos" style="color:black;">que somos</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="parceiros" style="color: black;">parceiros</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="servico" style="color: black;">serviços</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+  <section id="quemsomos">
+    <div class="container-fluid quem-somos text-center margin" style="color:black;">
+      <h3 class="margin">DESENHO ANIMADO</h3>
+      <img src="miih.png" class="rounded-circle" width="400" height="400">
+      <h3>conheça as meninas super poderosas</h3>
+      <p>As Meninas Superpoderosas (The Powerpuff Girls no original) é uma série animada americana criada por Craig McCracken e produzida pela Hanna-Barbera<br> (mais tarde Cartoon Network Studios) para o Cartoon Network. Os personagens principais são Florzinha, Lindinha e Docinho,<br> três meninas do jardim de infância com super-poderes, o Professor Utônio, pai das meninas e um cientista, e o desenho é centrando na cidade fictícia de Townsville, EUA .<br> As meninas são freqüentemente chamadas pelo Prefeito da cidade para ajudar a combater criminosos e monstros usando seus poderes.
+      </p>
+    </div>
+  </section>
+
+  <section id="quemsomos">
+    <div class="container-fluid quem-somos text-center margin" style="color:black;">
+      <img src="flor.jpg" class="" width="350" height="350">
+      <img src="tttty.webp" class="" width="350" height="350">
+      <img src="lll.jpg" class="" width="350" height="350">
+      <h1>florzinha</h1>
+      <p>Muitas vezes ela se mostrou vaidosa e frequentemente mandona com suas irmãs. Geralmente discute com Docinho por
+        causa de sua liderança e age como uma mãe para as meninas,<br> especialmente com Docinho. Ela sempre dá o
+        primeiro soco nas lutas<br> contra vilões como Sedusa, Fuzzy Confusão e Macaco Louco. Em<br> alguns episodios é
+        mostrado que ela sabe ler chinês. É mencionado que ela nunca teve uma nota baixa,<br> o que leva a crer que ela
+        é a mais inteligente das meninas.</p>
+
+</body>
+
+</html>
